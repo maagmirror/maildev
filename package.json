@@ -1,0 +1,15 @@
+{
+  "name": "maildev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "maildev": "node start-maildev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "maildev": "^2.2.1"
+  }
+}
