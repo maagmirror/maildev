@@ -27,6 +27,7 @@ Esto levantará dos servicios:
 
 Configura tu aplicación para enviar emails a:
 
+- **host para docker:** `host.docker.internal`
 - **host:** `localhost`
 - **puerto SMTP:** `1025`
 
